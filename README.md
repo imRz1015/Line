@@ -1,5 +1,5 @@
 # Line
-🥰use Center Platform drives redis\mongodb\mysql and chilren block code by node🥰
+🥰use Center Platform drives redis\mongodb\mysql and child block code by node🥰
 
 #### 使用基于node的中心平台驱动子区块、实时同步数据库更新的分布式框架
 
